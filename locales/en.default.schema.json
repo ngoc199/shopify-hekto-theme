@@ -814,6 +814,99 @@
         }
       }
     },
+    "hero": {
+      "name": "Hero Section",
+      "settings": {
+        "image": {
+          "label": "Hero Image"
+        },
+        "image_position": {
+          "label": "Image Position",
+          "option__1": {
+            "label": "left"
+          },
+          "option__2": {
+            "label": "right"
+          }
+        }
+      },
+      "blocks": {
+        "subheading": {
+          "name": "Subheading",
+          "settings": {
+            "subheading": {
+              "label": "Subheading"
+            }
+          }
+        },
+        "heading": {
+          "name": "Heading",
+          "settings": {
+            "heading": {
+              "label": "Heading"
+            },
+            "heading_size": {
+              "label": "Heading Size"
+            },
+            "heading_weight": {
+              "label": "Heading Weight",
+              "options__1": {
+                "label": "light"
+              },
+              "options__2": {
+                "label": "normal"
+              },
+              "options__3": {
+                "label": "bold"
+              }
+            }
+          }
+        },
+        "description": {
+          "name": "Description",
+          "settings": {
+            "description": {
+              "label": "Description"
+            },
+            "text_style": {
+              "label": "Text Style",
+              "options__1": {
+                "label": "body"
+              },
+              "options__2": {
+                "label": "subtitle"
+              },
+              "options__3": {
+                "label": "uppercase"
+              }
+            }
+          }
+        },
+        "buttons": {
+          "name": "Buttons",
+          "settings": {
+            "button_label_1": {
+              "label": "First Button Label"
+            },
+            "button_link_1": {
+              "label": "First Button Link"
+            },
+            "button_style_secondary_1": {
+              "label": "Use outline button style"
+            },
+            "button_label_2": {
+              "label": "Second Button Label"
+            },
+            "button_link_2": {
+              "label": "Second Button Link"
+            },
+            "button_style_secondary_2": {
+              "label": "Use outline button style"
+            }
+          }
+        }
+      }
+    },
     "image-banner": {
       "name": "Image banner",
       "settings": {
